@@ -1,0 +1,17 @@
+.digClock {
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    border: black solid thick;
+    background: rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.container {
+    padding-left: 600px;
+}
+
+p {
+    text-align: center;
+}
